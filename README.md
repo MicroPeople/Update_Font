@@ -8,20 +8,20 @@ MCU STM32F407VET6
 OLED SSD1306
 FLASH W25Q16
 
-![上电]{https://github.com/shhsidbsa/Update_Font/picture/1.jpg}
+! [上电] (https://github.com/shhsidbsa/Update_Font/picture/1.jpg)
 按下 Key1 更新字体，按下 Key0 显示内容
 
 ## 发送字库文件
 
-![XCOM界面]{https://github.com/shhsidbsa/Update_Font/picture/2.jpg}
+![XCOM界面](https://github.com/shhsidbsa/Update_Font/picture/2.jpg)
 
-![发送]{https://github.com/shhsidbsa/Update_Font/picture/3.png}
+![发送](https://github.com/shhsidbsa/Update_Font/picture/3.png)
 两个字库文件为 733k
 这种方法发送两个字库文件的时间约为 47s
 
 ## 显示
 
-![显示]{https://github.com/shhsidbsa/Update_Font/picture/4.jpg}
+![显示](https://github.com/shhsidbsa/Update_Font/picture/4.jpg)
 可以看到，字库发送成功，OLED 屏幕上成功显示出设定的字符串
 
 > 参考资料
